@@ -141,5 +141,5 @@ class NaiveBayes:
 
 
 if __name__ == "__main__":
-    mod = NaiveBayes()
-    mod.mainmenu()
+    model = NaiveBayes()
+    model.mainmenu()
